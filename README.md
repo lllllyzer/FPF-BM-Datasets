@@ -45,7 +45,7 @@ All datasets are fully annotated and pre-split into training, validation, and te
 
 # -Citation
 If you find this useful for your research, please cite the following paper.
-、、、bibtex
+```bibtex
 @article{liang2026image,
   title={From image to fire safety: An image-driven framework for as-is BIM reconstruction and fire risk assessment of existing buildings via semantic guidance},
   author={Liang, Yangze and Xia, Yuhui and Merzouk, Mina and Xu, Zhao},
@@ -54,4 +54,4 @@ If you find this useful for your research, please cite the following paper.
   year={2026},
   publisher={Elsevier}
 }
-、、、
+```
