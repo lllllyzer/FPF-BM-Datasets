@@ -42,3 +42,16 @@ https://doi.org/10.5281/zenodo.18067669
 - Material-dataset.zip: Building material classification dataset (YOLO format)
 
 All datasets are fully annotated and pre-split into training, validation, and test sets.
+
+# -Citation
+If you find this useful for your research, please cite the following paper.
+、、、bibtex
+@article{liang2026image,
+  title={From image to fire safety: An image-driven framework for as-is BIM reconstruction and fire risk assessment of existing buildings via semantic guidance},
+  author={Liang, Yangze and Xia, Yuhui and Merzouk, Mina and Xu, Zhao},
+  journal={Developments in the Built Environment},
+  pages={100869},
+  year={2026},
+  publisher={Elsevier}
+}
+、、、
